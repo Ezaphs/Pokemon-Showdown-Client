@@ -3,7 +3,7 @@ Config.origindomain = 'play.pokemonshowdown.com';
 // address bar is `Config.origindomain`.
 Config.defaultserver = {
 	id: 'nexus',
-	host: '35.177.39.51',
+	host: 'nexus.psim.us',
 	port: 8000,
 	httpport: 8000,
 	altport: 80,

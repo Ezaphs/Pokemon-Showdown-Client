@@ -402,7 +402,7 @@ var Tools = {
 	resourcePrefix: (function () {
 		var prefix = '';
 		if (document.location.protocol === 'file:') prefix = 'https:';
-		return prefix + 'https://raw.githubusercontent.com/EssCode/Pokemon-Showdown-Client/master/data/';
+		return prefix + 'https://raw.githubusercontent.com/Ezaphs/Pokemon-Showdown-Client/master/data/';
 	})(),
 
 	fxPrefix: (function () {

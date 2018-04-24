@@ -2,9 +2,9 @@ Config.origindomain = 'play.pokemonshowdown.com';
 // `defaultserver` specifies the server to use when the domain name in the
 // address bar is `Config.origindomain`.
 Config.defaultserver = {
-	id: 'showdown',
+	id: 'nexus',
 	host: '35.177.39.51',
-	port: 443,
+	port: 8000,
 	httpport: 8000,
 	altport: 80,
 	registered: true
